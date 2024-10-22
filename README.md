@@ -1,4 +1,7 @@
-## Hi there 👋
+#About
+###Student from the UK
+###Looking to learn more about computer science
+###Learning to code, focusing on c# and python
 
 <!--
 **Hayden0937625/Hayden0937625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
